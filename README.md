@@ -1,6 +1,5 @@
 # Bad Translation
 
-![贝壳字幕组](bkzmzlogo.png)
 
 用来记录中文字幕组的一些不合适的翻译。
 
